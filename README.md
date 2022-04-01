@@ -1,7 +1,8 @@
 # PruebaTecnica
 
-Base de datos
+##Base de datos
 
 Motor: Mysql
 
-Framework: Spring boot
+##Framework 
+Spring boot
